@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.Scanner;
 
-public class Demo4ArraySortDemo {
+public class ArraySort {
     public static void main(String[] args) {
         int n;
         Scanner sc=new Scanner(System.in);

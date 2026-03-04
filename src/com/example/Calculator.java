@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.Scanner;
 
-public class Demo2Calculator {
+public class Calculator {
       public static void main(String[] args) {
           Scanner sc = new Scanner(System.in);
           double num1 = sc.nextDouble();

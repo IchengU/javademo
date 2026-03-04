@@ -1,6 +1,6 @@
 package com.example;
 
-public class Demo3MultiplicationTable {
+public class MultiplicationTable {
     public static void main(String[] args) {
         for(int i=1;i<=9;i++)
         {
